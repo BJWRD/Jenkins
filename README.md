@@ -13,7 +13,7 @@ To explore the Jenkins deployments in this repository, follow these steps:
   
 #### 3. Choose one of the available deployments from the list below and follow the instructions provided in their respective directories:
 
-* [jenkins-docker-installation](https://github.com/BJWRD/jenkins-docker-installation): `Provisioning Jenkins Application utilising Dockerfile and Docker Compose`
+* [jenkins-docker-installation](https://github.com/BJWRD/Jenkins/jenkins-docker-installation): `Provisioning Jenkins Application utilising Dockerfile and Docker Compose`
 
 Feel free to explore each example's directory for detailed instructions on how to use Jenkins. Each example comes with its own README file that provides step-by-step guidance.
 
